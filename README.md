@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL, Python, DAX, R
 - 💞️ I’m looking to collaborate on an elementary project
 - 📫 How to reach me here
-- 😄 Pronouns: new
+- 😄 Pronouns: She
 - ⚡ Fun fact: 😄
 
 <!---
